@@ -1,7 +1,7 @@
 package main
 
 import (
-	"net/http"
+	"github.com/yutaiii/command-box-backend/handler"
 
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
@@ -14,14 +14,8 @@ func main() {
 	e.Use(middleware.Recover())
 
 	//routing
-	e.GET("/hello", hello())
+	e.GET("/hello", handler.Hello())
 
 	//exec server
 	e.Start(":8000")
-}
-
-func hello() echo.HandlerFunc {
-	return func(c echo.Context) error {
-		return c.String(http.StatusOK, "hello")
-	}
 }
