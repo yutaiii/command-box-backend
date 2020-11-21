@@ -8,4 +8,6 @@ require (
 	github.com/labstack/gommon v0.3.0 // indirect
 	github.com/valyala/fasttemplate v1.2.1 // indirect
 	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9 // indirect
+	gorm.io/driver/mysql v1.0.3
+	gorm.io/gorm v1.20.7
 )
