@@ -23,4 +23,40 @@ VALUES
 (
     'hogeaaaaaaaaaaaaaaaaaaaa',
     'fugaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+),
+(
+    'testtest',
+    '1234'
+),
+(
+    'piyopiyo',
+    'testtest'
+),
+(
+    'hogeaaaaaaaaaaaaaaaaaaaa',
+    'fugaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+),
+(
+    'testtest',
+    '1234'
+),
+(
+    'piyopiyo',
+    'testtest'
+),
+(
+    'hogeaaaaaaaaaaaaaaaaaaaa',
+    'fugaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+),
+(
+    'testtest',
+    '1234'
+),
+(
+    'piyopiyo',
+    'testtest'
+),
+(
+    'hogeaaaaaaaaaaaaaaaaaaaa',
+    'fugaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 );
