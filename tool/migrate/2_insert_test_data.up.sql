@@ -33,8 +33,8 @@ VALUES
     'testtest'
 ),
 (
-    'hogeaaaaaaaaaaaaaaaaaaaa',
-    'fugaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
+    'ブランチの派生元を間違えたときの解決方法',
+    'git rebase --onto {本来親にしたかったブランチ} {間違って親にしてしまったブランチ名} {親を変更する作業ブランチ名}'
 ),
 (
     'testtest',
