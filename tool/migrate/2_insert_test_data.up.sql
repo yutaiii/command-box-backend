@@ -49,8 +49,8 @@ VALUES
     'fugaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'
 ),
 (
-    'testtest',
-    '1234'
+    '配下のファイル・ディレクトリを縦に表示する',
+    'ls -1'
 ),
 (
     'piyopiyo',
